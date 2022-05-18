@@ -8,9 +8,7 @@
         Vs Code:https://code.visualstudio.com/download#
         Git for Windows: https://git-scm.com/download/win
 
-    Assignment 1 Image
-
-    ![Assignement 1 Image](./images/Lesson1.png)
+    ![Assignment 1](./images/Lesson1.png)
 
     strings
         replace()
