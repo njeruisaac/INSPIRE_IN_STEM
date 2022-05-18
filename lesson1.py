@@ -1,18 +1,15 @@
-#Volume of a Cube
+from stat import FILE_ATTRIBUTE_OFFLINE
 
-length = int(input("What is the Length of the Cube"))
-volume = length * length * length
-print("Volume of the cube is equals to " + str(volume) + "cm3")
 
-#Surface area of a Cylinder
-radius = int(input("What is the Radius of the cylinder"))
-height = int(input("What is the Height of the cylinder"))
-PI= 3.142
-surfaceArea= 2 * PI * radius * height + 2 * PI * radius * radius 
-print("The suface area of the cylinder is " + str(surfaceArea) + "cm2")
-
-#Volume of a Cylinder
-volume_cylinder = PI * radius * radius * height
-radius = int(input("Radius of the Cylinder"))
-height = int(input("Height of the cylinder"))
-print("The volume of the cylinder is " + str(volume_cylinder) + "cm3")
+first_name = "Isaac"
+second_name = "Njeru"
+school_attended = "JKUAT"
+favourite_food = "Pilau"
+birthday_year = "2002"
+birthday_month ="March"
+print("My name is " + first_name + second_name)
+print("I was born in " + birthday_year + birthday_month)
+print("My favourite food is " + favourite_food)
+print("I am currently at" + school_attended)
+age = int(2022) - int(birthday_year) 
+print("I am " + str(age) + "Years Old")
