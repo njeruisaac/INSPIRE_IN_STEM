@@ -1,6 +1,4 @@
-from stat import FILE_ATTRIBUTE_OFFLINE
-
-
+#About Me
 first_name = "Isaac"
 second_name = "Njeru"
 school_attended = "JKUAT"
