@@ -10,7 +10,7 @@
 
     Assignment 1 Image
 
-    ![Assignment 1 Image](./images/Lesson1.png)
+    ![Assignement 1 Image](./images/Lesson1.png)
 
     strings
         replace()
