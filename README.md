@@ -36,6 +36,10 @@
         .split()
     -Spliting Characters in a string
         print(var[number to be removed])
+    -New line in string/ tab space
+         \n  and \t
+    -Format in a string
+        print(f"Your {variable} String Here {variable}")
 
 ![slice](./images/Lesson2.png)
 ## Week 2 : Electronics for Innovators 
