@@ -8,8 +8,6 @@
         Vs Code:https://code.visualstudio.com/download#
         Git for Windows: https://git-scm.com/download/win
 
-    ![Assignment 1](./images/Lesson.png)
-
     strings
         replace()
         strip()
@@ -22,6 +20,8 @@
 
 
     Day 2 : Introduction to variable types 
+
+![Assignment](./images/Lesson.png)
 
 ## Week 2 : Electronics for Innovators 
 
