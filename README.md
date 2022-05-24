@@ -1,7 +1,8 @@
 ### INSPIRE IN STEM 
 
 ## Week 1 : Introduction to Python 
-    Day 1 : Installing Python
+    Day 1 Tuesday 17th May :
+     Installing Python
         
         Download links:
         Python: https://www.python.org/downloads/
@@ -19,10 +20,11 @@
 
 ![Assignment](./images/Lesson.png)
 
-    Day 2 : Introduction to variable types 
-    strings
-    integers
-    float
+    Day 2 Wednesday 18th May :
+     Introduction to variable types 
+            strings
+            integers
+            float
 
     -Conversion of Variables
         Concatenation of data types
@@ -43,8 +45,8 @@
 
 ![slice](./images/Lesson2.png)
 
-Day 3:
-     Working with Lists 
+Day 3 Thursday 19th May :
+    Working with Lists 
         pop() -delete item
         del - delete item
         append - add item
@@ -55,6 +57,32 @@ Day 3:
      Loops
         for (variable) in (variable) -(No brackets) loops items in list
 ![Loops](./images/Loop.png)
+
+Day 4 Friday 20th May:
+    Learning loop and list functions
+    Adding description to Read me file
+    Adding Image to Read me file 
+![Read_Me_Image](./images/ReadMe%20Images.png)
+
+Day 5 Monday 23rd May:
+    Initialising Directories and For loop function
+        Using Directories
+            To Initialise an empty dictionary
+                variable={}(calibraces)
+        
+                    Dictionaries
+                    Name: Isaac Njeru
+                    Date: 23/5/2022
+![Directories](./images/lesson7.py.png)
+
+Day 6 Tuesday 24th May:
+        Use of If and Else statements
+        Use of If and Elif statements
+![IF_Else_Statements](./images/If_and_Else.png)
+
+IF and ELSE EXAMPLE 2
+![Assignment4](./images/Assignment4.png)
+
         
 ## Week 2 : Electronics for Innovators 
 

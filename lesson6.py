@@ -11,7 +11,7 @@ print(motorcyle[3])
 motorcyle[1] = 'Ducatti'
 print("I love " + str(motorcyle[1]))
 
-#Add Item into a list .append('')
+#Add Item into a list .append('')s
 motorcyle.append('Navi')
 print(motorcyle)
 
@@ -21,7 +21,7 @@ print(motorcyle[0] + plate_number[0], motorcyle[1]  + plate_number[1], motorcyle
 #Loops: While / For
 
 #Delete item from list
-del motorcyle[1]
+del motorcyle[-1]
 print (motorcyle)
 
 #Delete item from list method 2
