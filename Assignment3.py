@@ -1,36 +1,10 @@
-#1/usr/bin/python
-#Print a diamond of stars and a pyramid of stars
-# for numbers in numbers:
-#     print(numbers**2)
+age = int(input("What is your age?"))
+user_gender=input("What Gender are you?")
 
-#Half Pyramid
-rows = int(input("Enter number of rows: "))
+acc_bal = 209 
 
-for i in range(rows):
-    for j in range(i+1):
-        print("* ", end="")
-    print()
-
-#Full Pyramid
-rows = int(input("Enter number of rows: "))
-
-k = 0
-
-for i in range(1, rows+1):
-    for space in range(1, (rows-i)+1):
-        print(end="  ")
-   
-    while k!=(2*i-1):
-        print("* ", end="")
-        k += 1
-   
-    k = 0
-    print()
-
-#Diamond
-h = int(input("please enter diamond's height:"))
-
-for i in range(1, h, 2):
-    print(" "*(h//2-i//2), "*"*i)
-for i in range(h, 0, -2):
-    print(" "*(h//2-i//2), "*"*i)
+if (age >25) and (age<30):
+    acc_bal = acc_bal + 10000
+    print(f"Confirmed your account balance is {acc_bal} ")
+else:
+     print("You are not eligible for the funds")
