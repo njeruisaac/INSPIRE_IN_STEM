@@ -26,3 +26,14 @@ student["instrumentPlayed"]="Piano"
 student["Name"]="Jeff"
 del student["Name"]
 print(student)
+
+#Lopping in dictionary
+person = {
+    'Name':'Isaac',
+    'Address':'Thome',
+    'Gender':'Male',
+    'Number':'0787066143', 
+}
+print(person)
+for key,value in person.items():
+    print(f"{key}:{value}")
