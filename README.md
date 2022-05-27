@@ -83,6 +83,15 @@ Day 6 Tuesday 24th May:
 IF and ELSE EXAMPLE 2
 ![Assignment4](./images/Assignment4.png)
 
+Day 7 Wednesday 25th May:
+        Initialising dictionaries
+        Looping dictionaries
+![Dictionaries](./images/Dictionaries.png)
+
+Day 8 Thursday 26th May:
+        Revision on Dictionaries
+        Arithmetic in Dictionaries
+![Dictionaries_Revision](./images/Lesson9.png)
         
 ## Week 2 : Electronics for Innovators 
 
