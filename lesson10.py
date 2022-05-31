@@ -8,6 +8,8 @@ fav_food={
     'mary':['beef','chicken','vegetable'],
     'jane':['rice','ugali','potato']
 }
-print(fav_food)
+# print(fav_food)
 #Combine lists above into one dictionary 
+for key,value in fav_food.items():
+    print(f"{key}:{value}")
 #Person 1 and 2 which name, email and password
