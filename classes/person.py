@@ -5,14 +5,19 @@
 ####################################################
 
 class person:
-    def __init__(self, _name, _age):
-      self.name= _name
-      self.age = _age
+    def __init__(self,_name,_age,_gender) :
+        self.name=_name
+        self.age=_age
+        self.gender=_gender
 
     def sayHi(self):
-        print('Hello, my name is '  + self.name, ' i am ' + self.age + ' years old' )
-person1 = person('kendi' ,str(18)) 
-person1.sayHi()  
+        print("Hi my name is"+ self.name, "I am " +self.age ,"yrs", "I am " + self.gender, )
 
-person2 = person('James' ,str(32))
+person1= person("Phillip", str(25), "Male")
+person1.sayHi()
+
+person2= person("James", str(19), "Male")
 person2.sayHi()
+
+person3=person("Catherin", str(43), "Female")
+person3.sayHi()
