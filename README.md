@@ -93,6 +93,11 @@ Day 8 Thursday 26th May:
         Arithmetic in Dictionaries
 ![Dictionaries_Revision](./images/Lesson9.png)
         
+
+Project:
+Weather APP
+Created a weather app that is able to tell the weather and time of a city on input
+![Weather_App](./images/WeatherApp.png)
 ## Week 2 : Electronics for Innovators 
 
 ## Week 3 : Introduction to Robotics
